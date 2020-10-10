@@ -2,5 +2,5 @@ class First{                                     //this is starting of java clas
 public static void main(String args[])
 {                                                //this is main function
 System.out.println("Hello Java");
-}
+}                                                //this is added
 }
